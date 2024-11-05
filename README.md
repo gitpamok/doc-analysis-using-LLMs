@@ -23,7 +23,7 @@
 "
   pip install -r requirements.txt
 "
-- Now , execute this command in the terminal to interact with this project
+- Now, execute this command in the terminal to interact with this project
 "
   streamlit run gui.py
 "
